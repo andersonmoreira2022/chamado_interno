@@ -15,3 +15,5 @@ Javascript
 Vite
 
 Docker
+
+Tailwind
